@@ -4,7 +4,7 @@
 
 ## Preview
 
-- **[Video Preview](https://www.notion.so/tinyyoung-foxmail-com-2af6fe8836e24c9fb30de54fb11d9284)**
+- **[Video Preview](https://www.bilibili.com/video/BV1x24y137gg/?share_source=copy_web&vd_source=fda0881cecec7be0b06545af6b91d097)**
 
 ![Untitled](Images/Untitled.png)
 
@@ -17,8 +17,9 @@
 
 ## How to install?
 
-1. [Download APK](https://github.com/fabio914/EyeTrackingKeyboard/releases/latest/download/build.apk).
-2. Connect Quest to computer, use SideQuest or other ADB tools to install it.
+[Download APK Default](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer.apk).
+[Download APK Passthrough](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer_PassThrough.apk).
+- Connect Quest to computer, use SideQuest or other ADB tools to install it.
 
 ## How to build?
 
