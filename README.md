@@ -17,8 +17,8 @@
 
 ## How to install?
 
-[Download APK Default](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer.apk).
-[Download APK Passthrough](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer_PassThrough.apk).
+- [Download APK Default](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer.apk).
+- [Download APK Passthrough](https://github.com/Eis4TY/Fov-Previewer/releases/download/0.1/FovPreviewer_PassThrough.apk).
 - Connect Quest to computer, use SideQuest or other ADB tools to install it.
 
 ## How to build?
