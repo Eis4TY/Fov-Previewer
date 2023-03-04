@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FovPreviewer.unity
+    guid: 6221233080d5f6745b72a69548eb1989
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 59bb2279f9cd2d14b8e6f2443d72b395, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: da86b8c142095cf40923433b2655b6f3, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a72a87a246acb8e48848c565bf95abb8, type: 2}
