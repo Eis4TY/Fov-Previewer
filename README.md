@@ -6,8 +6,6 @@
 
 - **[Video Preview](https://www.notion.so/tinyyoung-foxmail-com-2af6fe8836e24c9fb30de54fb11d9284)**
 
-<iframe src="[//player.bilibili.com/player.html?aid=389421234&bvid=BV1Bd4y1y7nR&cid=872317834&page=1](https://player.bilibili.com/player.html?aid=389421234&bvid=BV1Bd4y1y7nR&cid=872317834&page=1)" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 ![Untitled](Images/Untitled.png)
 
 ![Untitled](Images/Untitled%201.png)
